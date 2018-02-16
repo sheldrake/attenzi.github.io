@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Forty four (i)</title>
+	<atom:link href="/forty-four/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 May 2013 14:01:57 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>By: Eli Appel (@EliAppel)</title>
+		<link>/forty-four/#comment-11</link>
+		<dc:creator><![CDATA[Eli Appel (@EliAppel)]]></dc:creator>
+		<pubDate>Thu, 30 May 2013 14:00:55 +0000</pubDate>
+		<guid isPermaLink="false">http://philipsheldrake.com/attenzi.com/?page_id=196#comment-11</guid>
+		<description><![CDATA[Here&#039;s a question we&#039;ve posed ourselves since this book was published...
+
+Do you help all the individuals associated with your organisation (employees, customers, partners, suppliers, shareholders, etc.) build richer, more productive relationships with each other and others, coalescing by need and desire, knowledge and capability, shared values and shared value?
+
+See http://eulr.co/socbizmeaning]]></description>
+		<content:encoded><![CDATA[<p>Here&#8217;s a question we&#8217;ve posed ourselves since this book was published&#8230;</p>
+<p>Do you help all the individuals associated with your organisation (employees, customers, partners, suppliers, shareholders, etc.) build richer, more productive relationships with each other and others, coalescing by need and desire, knowledge and capability, shared values and shared value?</p>
+<p>See <a href="http://eulr.co/socbizmeaning" rel="nofollow">http://eulr.co/socbizmeaning</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
